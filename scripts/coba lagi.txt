@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html> 
+<head> 
+    <link href="styles/style.css" rel="stylesheet" type="text/css"> 
+    <title> coba lagi </title> 
+</head>
+<body>
+<h1> semoga bisa </h1>
+<img src="images/bayangan-kucing.png" alt="gambar bayangan kucing">
+<P> dikarenakan pada percobaab sebelumnya gambar tidak muncul saya mencoba lagi. Tes satu dua tiga. Membuat paragraf bla bla bla </p>
+<ul>
+<li> tes satu </li>
+<li> tes dua </li>
+</ul>
+
+<P> tes lagi </p>
+
+<ol>
+<li> tessatu </li>
+<li> tesdua </li>
+<li> testiga </li>
+</ol>
+
+<p>saya belajar dari <a href="https://developer.mozilla.org/id/docs/Learn/Getting_started_with_the_web/HTML_basics">sini</a>
+sekian terima kasih </p>
+
+<script src="scripts/main.js"></script>
+</body>
+</html>
